@@ -1,0 +1,28 @@
+No,Datset name,DAE-FF,Multi-Channel CNN,fastText
+1,ACEInhibitors,0.077,0.083,0.089
+2,ADHD,0.069,0.09,0.052
+3,Antihistamines,0.067,0.072,0.065
+4,Atypical Antipsychotics,0.173,0.164,0.166
+5,Beta Blockers,0.055,0.044,0.037
+6,Calcium Channel Blockers,0.137,0.091,0.1
+7,Estrogens,0.342,0.271,0.279
+8,NSAIDs,0.398,0.339,0.245
+9,Opioids,0.045,0.024,0.023
+10,Oral Hypoglycemics,0.315,0.284,0.287
+11,Proton PumpInhibitors,0.06,0.057,0.053
+12,Skeletal Muscle Relaxants,0.01,0.009,0.008
+13,Statins,0.057,0.049,0.043
+14,Triptans,0.059,0.065,0.05
+15,Urinary Incontinence,0.285,0.179,0.187
+,Average drug,0.143,0.121,0.112
+16,COPD ,0.419,0.206,0.305
+17,Proton Beam,0.35,0.286,0.26
+18,Micro Nutrients ,0.204,0.17,0.126
+,Average clinical,0.324,0.221,0.23
+19,PFOA/PFOS,0.138,0.064,0.105
+20,Bisphenol A (BPA) ,0.072,0.053,0.05
+21,Transgenerational,,,
+22,Fluoride and neurotoxicity,0.171,0.129,0.019
+23,Neuropathic pain | CAMRADES,,,
+,Average SWIFT,0.127,0.091,0.058
+,Grand average,0.167,0.135,0.121

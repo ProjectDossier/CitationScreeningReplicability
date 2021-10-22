@@ -44,3 +44,11 @@ ________
 For Drug and SWIFT datasets, in order to download documents from Pubmed, you need to set `Entrez.email` variable to your email address.
 
 
+## Results
+
+Detailed results are stored in `reports/` directory
+
+- `results-document_features.csv` file contains detailed results of input document feature influence for all models and datasets.  
+- `results-precision_at_95recall.csv` file contains detailed precision@95% recall results for all models and datasets.
+- `results-time.csv` file contains training time measurement results for all models and datasets.
+
