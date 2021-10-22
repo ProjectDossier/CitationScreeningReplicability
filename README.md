@@ -52,3 +52,6 @@ Detailed results are stored in `reports/` directory
 - `results-precision_at_95recall.csv` file contains detailed precision@95% recall results for all models and datasets.
 - `results-time.csv` file contains training time measurement results for all models and datasets.
 
+### Figures
+
+In order to recreate the figures, run jupyter notebook `notebooks/plotting.ipynb`.
