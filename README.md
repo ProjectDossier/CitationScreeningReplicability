@@ -55,3 +55,7 @@ Detailed results are stored in `reports/` directory
 ### Figures
 
 In order to recreate the figures, run jupyter notebook `notebooks/plotting.ipynb`.
+
+### Dataset statistics
+
+In order to calculate dataset statistics, run `src/data/dataset_statistics.py` script.
