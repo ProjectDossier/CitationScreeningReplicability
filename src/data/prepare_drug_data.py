@@ -35,7 +35,7 @@ def prepare_drug_datasets(
         print(f"{review=}, {len(review_df)=}")
 
         review_df[labels_column] = 0
-        review_df.loc[review_df["Article Triage Status"] == "I", "labels"] = 1
+        review_df.loc[review_df["Article Triage Status"] == "I", labels_column] = 1
 
         pubmed_id_list = review_df[pubmed_id_column].tolist()
         handle = Entrez.efetch(
