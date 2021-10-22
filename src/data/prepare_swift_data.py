@@ -61,8 +61,9 @@ def prepare_neuropathic_pain_dataset(df: pd.DataFrame) -> pd.DataFrame:
     df['Title'] = df['Title'].fillna("")
     df['Abstract'] = df['Abstract'].fillna("")
 
+    df['tmp_label'] = df['Label']
     df[labels_column] = 1
-    df.loc[df['Label'] == 'Excluded', labels_column] = 0
+    df.loc[df['tmp_label'] == 'Excluded', labels_column] = 0
 
     return df
 
