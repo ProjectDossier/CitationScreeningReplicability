@@ -1,0 +1,3 @@
+[submodule "src/models/DAE-FF"]
+	path = src/models/DAE-FF
+	url = git@github.com:WojciechKusa/DAE-FF.git
