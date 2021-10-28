@@ -1,6 +1,6 @@
 [submodule "src/models/DAE-FF"]
 	path = src/models/DAE-FF
 	url = git@github.com:WojciechKusa/DAE-FF.git
-[submodule "multichannel-cnn-citation-screening"]
-	path = multichannel-cnn-citation-screening
+[submodule "src/models/multichannel-cnn-citation-screening"]
+	path = src/models/multichannel-cnn-citation-screening
 	url = git@github.com:WojciechKusa/multichannel-cnn-citation-screening.git
