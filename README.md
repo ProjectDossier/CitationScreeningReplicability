@@ -1,5 +1,25 @@
 # CitationScreeningReplicability
 
+[![arXiv](https://img.shields.io/badge/arXiv-2201.07534-b31b1b.svg)](https://arxiv.org/abs/2201.07534)
+
+This repository is the official implementation of the ECIR 2022 paper [Automation of Citation Screening for Systematic Literature Reviews using Neural Networks: A Replicability Study](https://link.springer.com/chapter/10.1007/978-3-030-99736-6_39).
+
+
+## Citing
+
+If you find our code useful, please cite our paper:
+
+```bibtex
+@inproceedings{kusa2022automation,
+  title={Automation of Citation Screening for Systematic Literature Reviews Using Neural Networks: A Replicability Study},
+  author={Kusa, Wojciech and Hanbury, Allan and Knoth, Petr},
+  booktitle={European Conference on Information Retrieval},
+  pages={584--598},
+  year={2022},
+  organization={Springer}
+}
+```
+
 
 ## Installation
 
